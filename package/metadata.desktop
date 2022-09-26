@@ -13,6 +13,7 @@ X-KDE-PluginInfo-Email=zrenfire@gmail.com
 X-KDE-PluginInfo-Name=com.github.zren.inactiveblur
 X-KDE-PluginInfo-Version=5
 X-KDE-PluginInfo-Website=https://github.com/Zren/plasma-wallpapers/tree/master/inactiveblur
+X-KDE-PluginInfo-EnableByDefault=true
 X-Plasma-MainScript=ui/main.qml
 
 MimeType=image/jpeg;image/png;image/svg+xml;image/svg+xml-compressed;image/bmp;
